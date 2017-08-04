@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accessibility Analyzer</string>
+    <string name="action_settings">Settings</string>
+    <string name="accessibility_service_label">AccessibilityAnalyzer</string>
+</resources>
